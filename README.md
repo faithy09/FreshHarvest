@@ -6,6 +6,9 @@
 
 # Skills- Data Analysis, PowerBi, PostgresSQL
 
+# Project Scope- 
+The scope of the project includes collecting and integrating data from production, quality control, maintenance, and supply chain departments to analyze defective batches in food processing. It involves identifying key defect drivers through root cause analysis, utilizing tools such as SQL, Power BI, and statistical techniques. The project also covers the development of dashboards for monitoring quality trends, enhancing traceability, and supporting data-driven decision-making across operational teams.
+
 # Project Description- 
 FreshHarvest Foods Ltd., founded in 2004, is a U.S.-based food processing company specializing in organic frozen meals, soups, and vegetable mixes. It has become a nationally recognized brand known for sustainable sourcing, clean-label products, and innovative packaging. Serving health-conscious consumers and major retailers like Whole Foods and Trader Joe’s, its competitive edge lies in clean processing, farm-direct sourcing, and strong cold-chain logistics.
 
